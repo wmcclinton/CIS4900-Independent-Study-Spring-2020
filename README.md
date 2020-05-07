@@ -10,14 +10,31 @@ This is the repository for my Independent Study Course during Spring 2020 semest
 ### Writings
 ...This section conatins my Final Report for the Independent Study.
 
-### Projects
-...This section contains personal projects that I've implemented within this course. ...
-
 ## What I've Learned
 ...In Progress (Alot will extend later: Methods in Program Sysnthesis [Sketch](https://people.csail.mit.edu/asolar/manual.pdf), [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), Deep Recurrent Networks for Sketch Classification and Generation, etc.)
 
 ## Future Directions
-...In Progress (After months of literature review and preliminary testing our current direction is: ...)
+...In Progress
+
+After months of literature review and preliminary testing our current direction is:
+
+Natural Language Grounding Project:
+
+1. Few Shot Classification Comparision against MAML (Going through Language)
+
+2. Transfer Cartoon <-> Image (Ungrounded Arbitrary Vector) + NN and Vectors Grounded in Language (NN vs. Program)
+___
+
+3. Few Shot Transfer .... (Image to Drawing)
+
+Pragmatics Project:
+
+1. Finish Uninformed Listener
+
+2. Run User Study Comparing Uninformed Listener vs. Pragmatic Listener
+
+3. Publish
+
 
 ## Authors
 
