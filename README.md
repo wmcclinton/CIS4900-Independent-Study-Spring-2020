@@ -23,7 +23,6 @@ Natural Language Grounding Project:
 1. Few Shot Classification Comparision against MAML (Going through Language)
 
 2. Transfer Cartoon <-> Image (Ungrounded Arbitrary Vector) + NN and Vectors Grounded in Language (NN vs. Program)
-___
 
 3. Few Shot Transfer .... (Image to Drawing)
 
