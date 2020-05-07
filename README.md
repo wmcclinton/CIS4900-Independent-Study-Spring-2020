@@ -14,7 +14,7 @@ This is the repository for my Independent Study Course during Spring 2020 semest
 ...This section contains personal projects that I've implemented within this course. ...
 
 ## What I've Learned
-...In Progress (Alot will extend later: Methods in Program Sysnthesis [Sketch], Pragmatics, Deep Recurrent Networks for Sketch Classification and Generation, etc.)
+...In Progress (Alot will extend later: Methods in Program Sysnthesis [Sketch](https://people.csail.mit.edu/asolar/manual.pdf), [Pragmatics](https://plato.stanford.edu/entries/pragmatics/), Deep Recurrent Networks for Sketch Classification and Generation, etc.)
 
 ## Future Directions
 ...In Progress (After months of literature review and preliminary testing our current direction is: ...)
