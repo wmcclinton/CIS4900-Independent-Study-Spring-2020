@@ -6,17 +6,18 @@ This is the repository for my Independent Study Course during Spring 2020 semest
 ### Readings
 ...Readings are broken up into 3 categories: **Future** (papers that I intend to read), **Present** (papers I am currently reading), and **Past** (papers I have read fully or skimmed). For the **Past** readings, 90% of them I've printed out a hard copy and have taken notes on; these tend to be the papers I have the most interest in.
 
+
+### Writings
+...This section conatins my Final Report for the Independent Study.
+
 ### Projects
 ...This section contains personal projects that I've implemented within this course. ...
 
-### Writings
-...This section is unfinished, and contains some random preliminary writings done for applications losely related to this class.
-
 ## What I've Learned
-...In Progress (Alot will extend later: ...)
+...In Progress (Alot will extend later: Methods in Program Sysnthesis [Sketch], Pragmatics, Deep Recurrent Networks for Sketch Classification and Generation, etc.)
 
 ## Future Directions
-...In Progress (After months of literature review our current direction is: ...)
+...In Progress (After months of literature review and preliminary testing our current direction is: ...)
 
 ## Authors
 
